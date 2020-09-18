@@ -1,0 +1,5 @@
+@media all{
+    .card-shadow{
+        box-shadow: 'rgba(0, 0, 0, 0.5) 0px 0px 0px 0px, rgba(0, 0, 0, 0.5) 3px 11px 3px 4px';
+      }
+}
